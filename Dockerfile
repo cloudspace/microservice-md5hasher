@@ -1,3 +1,3 @@
 FROM scratch
-ADD ./md5hash /md5hash
+ADD ./microservice-md5hasher /microservice-md5hasher
 ADD ./microservice.yml /microservice.yml

@@ -21,4 +21,4 @@ microservice:
   outputs:
     encryptedData:
       param_type: 'String'
-      description: 'hashed data'
+      description: 'json result with hashed data'
